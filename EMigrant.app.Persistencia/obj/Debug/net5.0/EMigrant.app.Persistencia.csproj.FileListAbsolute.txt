@@ -1,0 +1,5 @@
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.csprojAssemblyReference.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.AssemblyInfo.cs
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.csproj.CoreCompileInputs.cache

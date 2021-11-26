@@ -1,0 +1,12 @@
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\E-Migrant.app.Dominio.csprojAssemblyReference.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\E-Migrant.app.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\E-Migrant.app.Dominio.AssemblyInfoInputs.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\E-Migrant.app.Dominio.AssemblyInfo.cs
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\E-Migrant.app.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\bin\Debug\net5.0\E-Migrant.app.Dominio.deps.json
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\bin\Debug\net5.0\E-Migrant.app.Dominio.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\bin\Debug\net5.0\ref\E-Migrant.app.Dominio.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\bin\Debug\net5.0\E-Migrant.app.Dominio.pdb
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\E-Migrant.app.Dominio.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\ref\E-Migrant.app.Dominio.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\E-Migrant.app.Dominio\obj\Debug\net5.0\E-Migrant.app.Dominio.pdb
