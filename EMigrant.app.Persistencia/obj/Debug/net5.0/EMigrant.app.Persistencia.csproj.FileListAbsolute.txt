@@ -3,3 +3,13 @@ C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5
 C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.AssemblyInfoInputs.cache
 C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.AssemblyInfo.cs
 C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\bin\Debug\net5.0\EMigrant.app.Persistencia.deps.json
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\bin\Debug\net5.0\EMigrant.app.Persistencia.runtimeconfig.json
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\bin\Debug\net5.0\EMigrant.app.Persistencia.runtimeconfig.dev.json
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\bin\Debug\net5.0\EMigrant.app.Persistencia.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\bin\Debug\net5.0\ref\EMigrant.app.Persistencia.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\bin\Debug\net5.0\EMigrant.app.Persistencia.pdb
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\ref\EMigrant.app.Persistencia.dll
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.pdb
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Persistencia\obj\Debug\net5.0\EMigrant.app.Persistencia.genruntimeconfig.cache

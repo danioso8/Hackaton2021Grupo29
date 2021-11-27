@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bNwt7zrBLhSWj2I3ORfgYV6RL4Jyr+sAgITcI/0X5yOyJM9IcAoVrVcqKg4HWMiLKRcqhHVZGetbT1L8JiktUg==",
+  "dgSpecHash": "29KYvcAyNQlC6vtn0pzqrMOlUqW5yb8DpG7pd0tqToVWkNutf9rdZzvZtl0nAt/NYqcNDWn9hPUbhkrEeqdeHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\E-Migrant.app.Dominio\\E-Migrant.app.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\EMigrant.app.Dominio\\EMigrant.app.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carolina\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Carolina\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

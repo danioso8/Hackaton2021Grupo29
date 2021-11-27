@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Collections.Generic;
 using EMigrant.app.Dominio;
 
@@ -13,4 +13,4 @@ namespace EMigrant.app.Persistencia
         Migrante GetMigrante(int id);
         IEnumerable<Migrante> GetPacientesSituacionLaboral(int situacionLaboral);
     }
-}
+}*/

@@ -5706,11 +5706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\E-Migrant.app.Dominio\\E-Migrant.app.Dominio.csproj",
-      "projectName": "E-Migrant.app.Dominio",
-      "projectPath": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\E-Migrant.app.Dominio\\E-Migrant.app.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\EMigrant.app.Dominio\\EMigrant.app.Dominio.csproj",
+      "projectName": "EMigrant.app.Dominio",
+      "projectPath": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\EMigrant.app.Dominio\\EMigrant.app.Dominio.csproj",
       "packagesPath": "C:\\Users\\Carolina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\E-Migrant.app.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Carolina\\Desktop\\E-Migrant.app\\EMigrant.app.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carolina\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,5 @@
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Dominio\obj\Debug\net5.0\EMigrant.app.Dominio.csprojAssemblyReference.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Dominio\obj\Debug\net5.0\EMigrant.app.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Dominio\obj\Debug\net5.0\EMigrant.app.Dominio.AssemblyInfoInputs.cache
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Dominio\obj\Debug\net5.0\EMigrant.app.Dominio.AssemblyInfo.cs
+C:\Users\Carolina\Desktop\E-Migrant.app\EMigrant.app.Dominio\obj\Debug\net5.0\EMigrant.app.Dominio.csproj.CoreCompileInputs.cache
